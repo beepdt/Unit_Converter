@@ -1,5 +1,6 @@
 # Unit_Converter
 Welcome to the Unit Converter Kotlin App! This app allows you to convert between various units using basic principles and Jetpack Compose for a modern UI experience.
+# *NOTE: Currently only supports conversions for units of length (meter,feet etc)
 
 Features
 1. Simple and Intuitive UI: Built with Jetpack Compose, the app provides a clean and user-friendly interface.
